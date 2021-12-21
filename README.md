@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, World! I'm Jihad <img src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" width="30px">
 
-<!--
-**j-bunk/j-bunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+const about = {
+    name: 'jihad bunkheila',
+    experience: {
+        education: 'eng @ uwaterloo',
+        previously: 'intern @ shopify + opencare + uptake + prodigy'
+    },
+    links: {
+        website: 'http://jihad.codes',
+        github: 'https://github.com/j-bunk',
+        linkedin: 'https://www.linkedin.com/in/jihad-bunkheila',
+    },
+}
+```
