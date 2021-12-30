@@ -21,3 +21,10 @@ const jihad = {
     summary: ["5x intern", "2x co-op student of the year award nominee", "ukulele-playing robot maker 🤖🪕"],
 }
 ```
+
+
+
+ <!-- retro visitor counter -->
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/j-bunk/count.svg" />
+ </p>
