@@ -7,6 +7,7 @@
 const jihad = {
     experience: {
         education: 'eng @ uwaterloo',
+        currently: 'swe intern @ nvidia',
         previously: 'intern @ shopify + opencare + uptake + prodigy'
     },
     links: {
