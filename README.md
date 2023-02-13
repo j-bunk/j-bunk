@@ -2,8 +2,7 @@
 const jihad = {
     experience: {
         education: 'eng @ uwaterloo',
-        currently: 'swe intern @ nvidia',
-        previously: 'intern @ shopify + opencare + uptake + prodigy'
+        previously: 'intern @ nvidia + shopify + more'
     },
     links: {
         website: 'http://jihad.codes',
@@ -11,9 +10,9 @@ const jihad = {
         linkedin: 'https://www.linkedin.com/in/jihad-bunkheila',
     },
     skills: {
-        languages: [TypeScript, JavaScript, Ruby, SQL, HTML, CSS, C],
-        technologies: [NestJS, Express, Node.js, React, Rails, GraphQL, PostgreSQL, MySQL, Redux, Jest, Cypress, Percy],
+        languages: [TypeScript, Ruby, JavaScript, C++, Python, SQL, C, HTML, CSS, Rust],
+        technologies: [Node.js, React, Rails, NestJS, Redux, PostgreSQL, GraphQL, Express, Next.js, MongoDB, Docker, Flask, Jest, Cypress, Percy],
     },
-    summary: ["5x intern", "2x co-op student of the year award nominee", "ukulele-playing robot maker 🤖🪕"],
+    summary: ["6x intern", "2x co-op student of the year award nominee"],
 }
 ```
