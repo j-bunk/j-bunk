@@ -1,8 +1,3 @@
-<h1 align="center"> Hello, World! I'm Jihad <a href="http://www.jihad.codes"> 
-<img src="https://emojis.slackmojis.com/emojis/images/1612948491/12491/waveboi.gif?1612948491" width="30px"></a> </h1>
-
-
-
 ```ts
 const jihad = {
     experience: {
