@@ -5,7 +5,6 @@ const jihad = {
         previously: 'intern @ nvidia + shopify + more'
     },
     links: {
-        website: 'http://jihad.codes',
         github: 'https://github.com/j-bunk',
         linkedin: 'https://www.linkedin.com/in/jihad-bunkheila',
     },
